@@ -3,6 +3,9 @@
 #   zh: ["zh_prompt_label"]
 #   en: ["en_prompt_label"]
 label_alias:
+  panda:
+    zh: [ "熊猫" ]
+    en: [ "panda" ]
   panda_in_a_living_room:
     zh: [ "客厅里有熊猫" ]
     en: [ "panda in a living room" ]
